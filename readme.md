@@ -1,3 +1,7 @@
+<!--
+Market: SF
+-->
+
 # CSS Positioning Lab
 
 ## Introduction
@@ -33,7 +37,7 @@ The starter-code contains all the files, images, and text content needed to crea
 
 #### Deliverable
 
-Please find a screenshot of the expected result below:
+Please take a screenshot of your results and share them in Slack! They should look something like this:
 
 ![Instagram lab Screenshot](https://i.imgur.com/DQ9fk1u.png)
 
