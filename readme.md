@@ -29,7 +29,8 @@ There's a bit of starter code, so you can jump right into it.
   - Instagram Logo
   - Login button
 
-
+**Bonus:**
+- Make it even better than Instagram! Throw in some animations, experiment with `hover`, make it fun.
 
 #### Starter code
 
@@ -41,6 +42,17 @@ Please take a screenshot of your results and share them in Slack! They should lo
 
 ![Instagram lab Screenshot](https://i.imgur.com/DQ9fk1u.png)
 
-## Additional Resources
+### Additional Resources
 
 - [CSS Reference from MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### Self Evaluation
+
+During the previous exercise, rate your progress on a scale of 1-5 (5 being the highest) for the following criteria:
+
+- **Persistence:** Do you handle frustration well? Do you independently pursue understanding?
+- **Organization:** Do you thoughtfully implement best coding patterns and practices?
+- **Collaboration:** Do you make an effort solve problems and share your ideas with others?
+- **Communication:** Do you clearly convey your thoughts to others in illustrative and clear ways?
+- **Self-compassion:** Do you make productive use of turning failures into learning opportunities?
+- **Resourcefulness:** Do make an effort to compare and contrast new ideas with ones you already know? 
