@@ -4,7 +4,7 @@ Market: SF
 
 # CSS Positioning Lab
 
-## Introduction
+## Introduction (10 min for explanation)
 
 > ***Note:*** _This can be a pair programming activity or done independently._
 
@@ -12,7 +12,7 @@ One of the best ways to sharpen your CSS skills is to try to recreate an existin
 
 There's a bit of starter code, so you can jump right into it.
 
-## Exercise
+## Exercise (50-60 min)
 
 #### Requirements
 
@@ -46,7 +46,7 @@ Please take a screenshot of your results and share them in Slack! They should lo
 
 - [CSS Reference from MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-### Self Evaluation
+### Self Evaluation (10 min)
 
 During the previous exercise, rate your progress on a scale of 1-5 (5 being the highest) for the following criteria:
 
