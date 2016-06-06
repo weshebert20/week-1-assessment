@@ -4,7 +4,7 @@ Market: SF
 
 # CSS Positioning Lab
 
-## Introduction (10 min for explanation)
+## Introduction (10 min)
 
 > ***Note:*** _This can be a pair programming activity or done independently._
 
