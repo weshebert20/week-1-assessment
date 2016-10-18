@@ -4,13 +4,13 @@ Market: SF
 
 # CSS Positioning Lab
 
-## Introduction (10 min)
+## Introduction
 
-One of the best ways to sharpen your CSS skills is to try to recreate an existing style and layout, so take a look at the deliverable below, work with a partner, and build your own version of Instagram.com.  Don't worry if you can't get it to look _exactly_ as you see but try your best to get as close as possible.
+One of the best ways to sharpen your CSS skills is to try to recreate an existing style and layout, so take a look at the deliverable below, and build your own version of Instagram.com.  Don't worry if you can't get it to look _exactly_ as you see but try your best to get as close as possible.
 
-There's a bit of starter code, so you can jump right into it.
+There will be no starter code for this site.  You will have to build it from scratch.
 
-## Exercise (50-60 min)
+## Exercise
 
 #### Requirements
 
@@ -30,13 +30,13 @@ There's a bit of starter code, so you can jump right into it.
 **Bonus:**
 - Make it even better than Instagram! Throw in some animations, experiment with `hover`, make it fun.
 
-#### Starter code
+#### Starter assets
 
-The starter-code contains all the files, images, and text content needed to create the page. The text is in the `index.html`, and the color palette is in `main.css`
+The repository contains all the images needed to create the page.  You will need to make everything else from scratch.
 
 #### Deliverable
 
-Please take a screenshot of your results and share them in Slack! They should look something like this:
+Once you have submitted your assignment, please take a screenshot of your results and share them in Slack! They should look something like this:
 
 ![Instagram lab Screenshot](https://i.imgur.com/DQ9fk1u.png)
 
@@ -44,7 +44,7 @@ Please take a screenshot of your results and share them in Slack! They should lo
 
 - [CSS Reference from MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-### Self Evaluation (10 min)
+### Self Evaluation
 
 During the previous exercise, rate your progress on a scale of 1-5 (5 being the highest) for the following criteria:
 
