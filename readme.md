@@ -8,7 +8,7 @@ Market: SF
 
 One of the best ways to sharpen your CSS skills is to try to recreate an existing style and layout, so take a look at the deliverable below, and build your own version of Instagram.com.  Don't worry if you can't get it to look _exactly_ as you see but try your best to get as close as possible.
 
-There will be no starter code for this site.  You will have to build it from scratch.
+There will be no starter code for this site.  You will have to build it from scratch.  If you get stuck, remember the **Read, Search, Ask** guidelines.
 
 ## Exercise
 
