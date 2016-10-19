@@ -19,7 +19,7 @@ There will be no starter code for this site.  You will have to build it from scr
 - Use a `footer` tag
 - Use an unordered list tag
 - Use `section` tags for the main areas of the page
-- Use the images provided to construct the appropriate elements on the page:
+- Use the images provided to construct the appropriate elements on the page, for example:
   - the iPhone
   - App Store and Google Play buttons
   - Instagram Logo
