@@ -2,30 +2,38 @@
 Market: SF
 -->
 
-# CSS Positioning Lab
+# Website Recreation Lab
 
 ## Introduction
 
-One of the best ways to sharpen your CSS skills is to try to recreate an existing style and layout, so take a look at the deliverable below, and build your own version of Instagram.com.  Don't worry if you can't get it to look _exactly_ as you see but try your best to get as close as possible.
+One of the best ways to sharpen your CSS and HTML skills is to try to recreate an existing spage, so take a look at the deliverable below, and build your own version of Instagram.com.  Don't worry if you can't get it to look _exactly_ as you see but try your best to get as close as possible.
 
 There will be no starter code for this site.  You will have to build it from scratch.  If you get stuck, remember the **Read, Search, Ask** guidelines.
 
 ## Exercise
 
-#### Requirements
+#### Requirements (HTML)
 
-- Use display, clear, and floats to position elements on the page
-- Look up and use CSS properties and values that may not have been covered in class, for example:
-  - `background: url("YOUR-LINK.COM")`
-  - `list-style`
-  - `text-decoration`
-  - `text-transform`
-- Use a single external CSS stylesheet to style all pages
+- Use the standard HTML boilerplate with `head` and `body`
+- Use `src` and `alt` for all `img` tags
+- Use a `footer` tag
+- Use an unordered list tag
+- Use `section` tags for the main areas of the page
 - Use the images provided to construct the appropriate elements on the page:
   - the iPhone
   - App Store and Google Play buttons
   - Instagram Logo
   - Login button
+
+#### Requirements (CSS)
+
+- Use display, clear, and floats to position elements on the page
+- Look up and use at least two CSS properties and values that may not have been covered in class, for example:
+  - `background: url("YOUR-LINK.COM")`
+  - `list-style`
+  - `text-decoration`
+  - `text-transform`
+- Use a single external CSS stylesheet to style all pages
 
 **Bonus:**
 - Make it even better than Instagram! Throw in some animations, experiment with `hover`, make it fun.
