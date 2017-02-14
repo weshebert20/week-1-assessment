@@ -6,7 +6,7 @@ Market: SF
 
 ## Introduction
 
-One of the best ways to sharpen your CSS and HTML skills is to try to recreate an existing spage, so take a look at the deliverable below, and build your own version of Instagram.com.  Don't worry if you can't get it to look _exactly_ as you see but try your best to get as close as possible.
+One of the best ways to sharpen your CSS and HTML skills is to try to recreate an existing page, so take a look at the deliverable below, and build your own version of Instagram.com.  Don't worry if you can't get it to look _exactly_ as you see but try your best to get as close as possible.
 
 There will be no starter code for this site.  You will have to build it from scratch.  If you get stuck, remember the **Read, Search, Ask** guidelines.
 
@@ -51,17 +51,6 @@ Once you have submitted your assignment, please take a screenshot of your result
 ### Additional Resources
 
 - [CSS Reference from MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-### Self Evaluation
-
-During the previous exercise, rate your progress on a scale of 1-5 (5 being the highest) for the following criteria:
-
-- **Persistence:** Do you handle frustration well? Do you independently pursue understanding?
-- **Organization:** Do you thoughtfully implement best coding patterns and practices?
-- **Collaboration:** Do you make an effort to solve problems and share your ideas with others?
-- **Communication:** Do you clearly convey your thoughts to others in illustrative and clear ways?
-- **Self-compassion:** Do you make productive use of turning failures into learning opportunities?
-- **Resourcefulness:** Do make an effort to compare and contrast new ideas with ones you already know? 
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
