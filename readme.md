@@ -36,7 +36,8 @@ There will be no starter code for this site.  You will have to build it from scr
 - Use a single external CSS stylesheet to style all pages
 
 **Bonus:**
-- Make it even better than Instagram! Throw in some animations, experiment with `hover`, make it fun.
+- The repeating background image is oldschool. Can you do it with a CSS3 gradient? 
+- The 'frame.png' image is also unnecessary. Can you do it with `box-shadow`, `border-radius`, and `position: relative`? 
 
 #### Starter assets
 
